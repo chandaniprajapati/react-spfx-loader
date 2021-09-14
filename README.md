@@ -2,7 +2,7 @@
 
 ## Summary
 
-Short summary on functionality and used technologies.
+Demo for how to use loader/spinner in SPFx webpart.
 
 [picture of the solution in action, if possible]
 
